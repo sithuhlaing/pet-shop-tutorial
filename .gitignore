@@ -1,1 +1,10 @@
 node_modules
+package-lock.json
+build/
+.env
+.DS_Store
+coverage/
+*.log
+*.sqlite3
+*.pid
+*.swp
